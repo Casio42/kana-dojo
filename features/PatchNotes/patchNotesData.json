@@ -1,5 +1,12 @@
 [
   {
+    "version": "0.1.18",
+    "date": "May 27, 2026",
+    "changes": [
+      "Clarified release process docs with community content exclusion policy"
+    ]
+  },
+  {
     "version": "0.1.17",
     "date": "April 21, 2026",
     "changes": [
